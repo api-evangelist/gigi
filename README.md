@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gigi is an AI‑driven networking platform that connects people through intelligent agents. It enables agents to search, introduce, and communicate with contacts, providing tools for automated outreach, warm introductions, and data‑driven networking. The service offers a free tier for individuals and paid plans for teams, focusing on trust, privacy, and seamless integration with existing workflows.
+Gigi is a venture‑backed technology startup that emerged from the API Evangelist harvest backlog. Backed by Sequoia Capital, the company focuses on developing AI‑driven solutions. As of 2026, Gigi is in early growth stage and aims to expose its services via APIs. This profile enriches its public presence and documentation.
 
-**Areas:** Company · AI · Networking · Agents · Privacy
+**Areas:** Company · Startup · Technology · AI · Venture-Backed
 
 ## Gigi on APIs.io
 
@@ -82,56 +82,11 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Gigi Domain Security](https://apis.io/security/gigi/gigi-domain-security/)
 
-## Where to find this API
-
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
-
-- [Website](https://gigi.co/)
-- [Terms of service](https://gigi.co/terms)
-- [Privacy policy](https://gigi.co/privacy)
-
 ## API Evangelist rating
 
-**Kin Score 8.7** — minimal · rubric 0.25.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 21.1 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gigi/](https://apis.io/providers/gigi/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
